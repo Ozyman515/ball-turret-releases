@@ -1,0 +1,10 @@
+{
+  "build": 1,
+  "date": "2026-11-10T04:56:08",
+  "engine": "4.7",
+  "game": "ball-turret",
+  "notes": "Build 1: Gunnery School tutorial (Las Vegas, 1943) and combat test",
+  "pck": "ball-turret-b1.pck",
+  "sha256": "9ca08aef890614b6823c39d13283470722d1226d0d86d842dbd80221f3db7e3f",
+  "size": 106256
+}
