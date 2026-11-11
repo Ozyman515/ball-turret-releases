@@ -1,0 +1,10 @@
+{
+  "build": 3,
+  "date": "2026-11-11T03:57:24",
+  "engine": "4.7",
+  "game": "ball-turret",
+  "notes": "Build 3: crew spotting calls, V to call fighters, pilot evasive action as a straggler, 1000 rounds per gun",
+  "pck": "ball-turret-b3.pck",
+  "sha256": "4145aa3d9f35d4ccaf9644c69f7521354f7b3e2d1f76096c697ccf8a9c340440",
+  "size": 123136
+}

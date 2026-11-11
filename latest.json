@@ -1,5 +1,5 @@
 {
-  "build": 2,
-  "manifest": "manifest-b2.json",
-  "sig": "manifest-b2.sig"
+  "build": 3,
+  "manifest": "manifest-b3.json",
+  "sig": "manifest-b3.sig"
 }
