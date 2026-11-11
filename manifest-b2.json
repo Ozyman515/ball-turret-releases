@@ -1,0 +1,10 @@
+{
+  "build": 2,
+  "date": "2026-11-11T01:33:08",
+  "engine": "4.7",
+  "game": "ball-turret",
+  "notes": "Build 2: turret position indicator, hold R clears any jam, easier tutorial clock calls",
+  "pck": "ball-turret-b2.pck",
+  "sha256": "c12549b187312687c9ce6e51f433f40c649813aefc7e03fceb587efed86d2890",
+  "size": 110848
+}
