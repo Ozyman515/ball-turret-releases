@@ -1,0 +1,10 @@
+{
+  "build": 6,
+  "date": "2026-11-12T03:05:24",
+  "engine": "4.7",
+  "game": "ball-turret",
+  "notes": "Build 6: working updater, views (Tab), live radar, named fighter calls",
+  "pck": "ball-turret-b6.pck",
+  "sha256": "4ec7d72f784625d4ae099edb2f1ec1d2ebd27d446c43a56119e5863bb1f03024",
+  "size": 148308
+}
