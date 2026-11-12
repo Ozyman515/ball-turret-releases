@@ -1,0 +1,10 @@
+{
+  "build": 4,
+  "date": "2026-11-12T01:37:27",
+  "engine": "4.7",
+  "game": "ball-turret",
+  "notes": "Build 4: fighters shoot back; engine, crew and ball damage; hand cranks; near-miss whiz",
+  "pck": "ball-turret-b4.pck",
+  "sha256": "42e7b2cc27ab746d2f9a32895fa41e68c7fc78bd571b0039406ed744e65236d2",
+  "size": 140980
+}
