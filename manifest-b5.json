@@ -1,0 +1,10 @@
+{
+  "build": 5,
+  "date": "2026-11-12T02:06:37",
+  "engine": "4.7",
+  "game": "ball-turret",
+  "notes": "Build 5: clearer gunnery range (no stand leg in view, white plan-view boards), brighter sight lines",
+  "pck": "ball-turret-b5.pck",
+  "sha256": "2be9f09d96764a0dee560b9427da42386e03ca4ec143743c1fc1afe1c51b183a",
+  "size": 141844
+}
